@@ -2,7 +2,7 @@
 Deux tentatives d'experimentation autour de l'alphabet Bamoun
 
 1. LA VITESSE
-J'ai d'abord voulu étudier la notion de vitesse, en prenant comme support le "mot" dans son ensemble. Le glyphe devient alors une associations de plusieurs signes ; on ne sait plus comment le regarder (verticalement, horizontalement ?), et il renvoit presque à un tracé abstrait. En effet, la vitesse du tracé induit une certaine liberté, elle se défait de la contrainte du "dessiner le signe", elle le réduit au minimum pour arriver à quelque chose de plus lâché, de plus volant.
+J'ai d'abord voulu étudier la notion de vitesse, en prenant comme support le "mot" dans son ensemble. Le glyphe devient alors une associations de plusieurs signes ; on ne sait plus comment le regarder (verticalement, horizontalement ?), et il renvoit presque à un tracé abstrait. En effet, la vitesse du tracé induit une certaine liberté, elle se défait de la contrainte du "dessiner le signe", elle le réduit au minimum pour arriver à quelque chose de plus lâché, de plus rythmé. On obtient des ligatures qui se font instictivement, une deformation de certains signes de base. Il faut finalement regarder ces glyphes "mots" comme UN glyphe, comme un ensemble.
 
   Methode >
 • Dessin à la main (test de différents outils, j'ai finalement opté pour le stylo bic), des lignes et des lignes pour m'habituer à tracer les signes et finalement les écrire sans y réflechir.
