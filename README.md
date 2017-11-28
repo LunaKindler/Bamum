@@ -1,20 +1,22 @@
 # Bamum
-Deux tentatives d'experimentation autour de l'alphabet Bamoun
+Recherches et experimentations sur l'écriture du peuple bamoun (notamment la septième et dernière version, l'alphabet akauku mfemfe, 1918).
 
-1. LA VITESSE
-J'ai d'abord voulu étudier la notion de vitesse, en prenant comme support le "mot" dans son ensemble. Le glyphe devient alors une associations de plusieurs signes ; on ne sait plus comment le regarder (verticalement, horizontalement ?), et il renvoit presque à un tracé abstrait. En effet, la vitesse du tracé induit une certaine liberté, elle se défait de la contrainte du "dessiner le signe", elle le réduit au minimum pour arriver à quelque chose de plus lâché, de plus rythmé. On obtient des ligatures qui se font instictivement, une deformation de certains signes de base. Il faut finalement regarder ces glyphes "mots" comme UN glyphe, comme un ensemble.
+Le créateur de caractère est investi d’une mission : celle de restituer une certaine identité sociale et culturelle provenant de la nature de l’alphabet. Car l'usage d’une langue et d’une écriture propre, c’est l’expression d’une identité.
 
-  Methode >
-• Dessin à la main (test de différents outils, j'ai finalement opté pour le stylo bic), des lignes et des lignes pour m'habituer à tracer les signes et finalement les écrire sans y réflechir.
-• Calques (pour dessiner à la main ces courbes, contrôler les epaisseurs, etc).
-• Vectorisation dans Glyph
-  
-2. ÉCRIRE L'ORALITÉ
-Je me suis ensuite intéressée à la linguistique. J'ai relevé des caractéristiques linguistiques spécifique à la transposition orale présentes dans l'alphabet bamoun. Je les ai définies, j'ai réfléchi à ce que ces caractéristiques m'évoquaient, et j'ai choisi de les "illustrer" à travers un système typographique. Je voudrais rendre compte des caractéristiques oral à l'écrit, en constituant une serie de glyphes qui apparaitraient très hétérogènes au sein d'un texte, mais à partir desquels on pourrait se rendre compte des spécificités de l'alphabet Bamoun.
+/// Créateur de caractère & alphabet qui lui est étranger ///
 
-  Methode >
-• J'ai donc listé les caractéristiques linguistiques, à savoir : tonalité haute / tonalité moyenne / tonalité grave / nasale / combinante / coup de glotte / muette.
-• J'ai défini ces caractéristique, et j'ai analysé ce qu'elles provoquaient.
-• J'en ai déduis une forme propre à chaque caractéristique (à
-• J'ai esquissé quelques dessins de signes (à savoir qu'un signe peut présenter, selon sa place dans la phrase ou dans le mot, une ou plusieurs caractéristique. Il peut par exemple etre combinante sur un ton haut, ou nasale sur un ton grave, etc). Il me faut donc plusieurs versions d'un même signe.
-• Dessin sur glyph.
+Risques :
+• Imposer des erreurs (pour l’éviter, mettre en place un étude typographique rigoureuse de la tradition du signe).
+• Occidentalo-centrisme, acculturation.
+
+Bénéfices :
+• Regard neuf et inédit sur la forme des signes
+• Amener son point de vue (ma personnalité en tant que dessinateur de caractère), le poids de son expérience, et son savoir technique.
+• Me donner un regard nouveau sur la manière dont j’appréhende la typo latine (regarder différament les proportions, signes, règles typographiques).
+
+Responsabilités :
+• Relayer des informations exactes.
+• Faire attention à la véracité des mots employés.
+• Justesse de la représentation.
+• Dans mon cadre scolaire, j’en suis la seule spécialiste : me réguler moi-même.
+• Respecter une éthique liée à la manifestation d’une vie sociale et d’une identité culturelle provenant de la nature de l’alphabet.
