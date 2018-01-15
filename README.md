@@ -20,3 +20,6 @@ Responsabilités :
 • Justesse de la représentation.
 • Dans mon cadre scolaire, j’en suis la seule spécialiste : me réguler moi-même.
 • Respecter une éthique liée à la manifestation d’une vie sociale et d’une identité culturelle provenant de la nature de l’alphabet.
+
+À LIRE POUR COMPRENDRE LES ABOUTISSANTS DU PROJET :
+Proposition diplome V2
